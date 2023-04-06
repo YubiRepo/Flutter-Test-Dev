@@ -36,3 +36,10 @@ Buatlah aplikasi Flutter sederhana yang mengambil gambar dari kamera dan menyimp
 -	Implementasi UI/UX yang modern
 
 
+
+# Submisi Test
+
+- Upload source code ke repository Github masing - masing
+- Kirimkan Link github hasil pekerjaan melalui WhatsApp Yubi : 0811 247 085 
+
+
